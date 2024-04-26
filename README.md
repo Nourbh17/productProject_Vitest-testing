@@ -12,13 +12,13 @@ including edge cases and error handling, we aim to enhance the quality and robus
 
 1) Unit tests for basic product management functions:
    
-Adding a product
+   Adding a product
 
-Removing a product
+   Removing a product
 
-Updating product details
+   Updating product details
 
-Displaying products
+   Displaying products
 
 2) Unit tests for main application functionality:
 Testing the main application flow
